@@ -1,21 +1,20 @@
-# BIOL 102: Introductory Biology Syllabus  
+# BIOL 102: Introductory Biology  
 ### Bowie State University, Fall 2020
 
-## General Information
-### Class times
-**Lecture**: Tuesdays and Thursdays, 5:30 – 6:45 PM, CNSMN 1222  
-**Lab**: Mondays, 5:00 – 6:50 PM, CNSMN 3145  
-    *NOTE: The room in the course catalog is incorrect.
-    
-### Contact information
+## Contact Information
 
-|**Instructor**: Dr. Mary Glover | **Email**: mglover@bowiestate.edu
-| ---      | ---       |
- **Office**: CNSMN 2160 | **Office hours** *TBD* |
+<img src="IMG_0274.jpg" width="25%" height="25%" align= "right" />
+
+
+**Instructor**: Dr. Mary Glover  
+
+**Email**: <mglover@bowiestate.edu>
+
+Email is a good way to get in contact with me. I will do my best to respond in a timely manner, generally within 24 hours, although it may be longer on weekends and holidays. 
+
+**Slack**: We will also utilize the Slack software for discussion in the class. You will be able to ask me or other students questions, do one on one video calls, and screen share within slack. To learn more about slack or download the desktop app, go to [slack.com](www.slack.com). You will receive an invitation to our class channel at the beginning of the semester. 
  
-Email is best way to contact me. I will do my best to respond in a timely manner, generally within 24 hours, though you can expect longer response times on weekends/ holidays.
-
-### Course materials
+## Course materials
 
 The required textbook is a modified version of **_Principles in Biology_, 2nd ed. by Robert Brooker**. 
 
@@ -24,6 +23,47 @@ You can get the book in a few different places. If you are not sure about the ve
 - The bookstore carries a version of this textbook which only includes the chapters we will cover at a reduced price.
 - You can rent the textbook from amazon for around $40 (as of June 2020). [linked here] (https://www.amazon.com/Principles-Biology-Robert-Brooker/dp/1259875121)
 - You can also find used copies online from a variety of sources of the full book, which would be fine for the class.
+
+## Class Structure
+
+BIOL 102 will follow a ***hybrid*** model with both online and face to face instruction for the fall of 2020. 
+
+### In person instruction
+
+The laboratory component will be held in person, **with social distancing protocols in place**. These will be in groups of 6 to make social distancing possible. PPE will be provided for you. *More informaiton about in person lab procedures to follow.* 
+
+In person lab classes are *only* on the following four dates. All other labs will be done virtually. 
+
+- September 14
+- September 21
+- October 12
+- November 9
+
+
+### Online Instruction
+
+All lecture class sessions and remaining labs  will be held online. Each week, class sessions will be on Zoom by Dr. Glover during the normal scheduled class times.
+
+
+|**Day** |**Time** | **Class session** |
+| ---      | ---       | ---       |
+| Monday | 5:00 PM - 6:50 PM | Laboratory |
+| Tuesday | 5:30 PM - 6:45 | Office hours |
+| Wednesday | 5:30 - 6:45 | Lecture discussion|
+
+
+#### General class structure
+Each week, students will receive course content through Blackboard, including readings, assignements, lecture videos, and discussion questiosn
+
+#### Laboratory
+Dr. Glover will briefly review the lab assignment for the week and students will have an opportunity to ask questions about the lab assignemnt. The remaining class time, Dr. Glover will be on zoom to assist as students work through the lab on their own. 
+
+#### Office hours
+Dr. Glover will be available on zoom for office hours during the regularly scheduled class time on Tuesdays. This is a time for students to answer questions as they work on the material for the week. 
+ 
+#### Discussion
+Discussion sessions are reserved for applying the student's knowledge of the weekly course material. We will work on review higher level, critical thinking questions and sample exam problems during this time. Discussion questions will be provided ahead of time for students to review. 
+
 
 
 ## Learning goals
