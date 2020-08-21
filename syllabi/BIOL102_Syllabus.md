@@ -1,10 +1,6 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # BIOL 102: Introductory Biology  
-### Bowie State University, Fall 2020
+
+#### Bowie State University, Fall 2020
 
 ## Contact Information
 
@@ -35,6 +31,8 @@ I understand that the global pandemic caused by COVID-19 may be making your live
 	- [https://www.bowiestate.edu/campus-life/health-and-wellness/henry-wise-wellness-center/corona-virus-information/coronavirus-counseling-faq.php](https://www.bowiestate.edu/campus-life/health-and-wellness/henry-wise-wellness-center/corona-virus-information/coronavirus-counseling-faq.php)
 	- email <counselingservices@bowiestate.edu> 
 	- call 301-860-4164 from 8 a.m. to 5 p.m. Monday through Friday.
+
+<br>
 
 ## Technological tools
 
@@ -72,6 +70,9 @@ Students are encouraged to ask questions in slack channels. Students can get a q
 
 IMPORTANT NOTE: Confidential or sensitive information should **not** be discussed through slack, as slack is not FERPA compliant. Please discuss sensitive information, such as grades via email.  
 
+<br>
+<br>
+
 ## Class structure
 
 BIOL 102 will be delivered entirely online. Class sessions will be on Zoom by Dr. Glover during the normal scheduled class times.
@@ -108,7 +109,10 @@ Student can get the book in a few different places. If you are not sure about th
 - You can also find used copies online from a variety of sources of the full book, which would be fine for the class.
 
 Important Note:  You will **not** need a subscription to CONNECT. Some versions come with a subscription, which is a more expensive version of the book and we will not be using this platform in class. 
-
+<br>
+<br>
+<br>
+<br>
 ## Accessibility
 Students with disabilities who wish to receive ADA
 accommodations should report to the Disability Support Services,

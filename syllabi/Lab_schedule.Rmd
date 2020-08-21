@@ -1,0 +1,26 @@
+---
+Title: Lab schedule
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r echo = FALSE, include = F}
+schedule <- read.csv('~/Dropbox/M/Bowie State/Bowie_State_BIOL_102/Final_schedule.csv')
+
+library(knitr)
+library(dplyr)
+library(kableExtra)
+lab <- schedule %>%
+  filter(Component=='Lab') %>%
+  select(-Component)%>%
+  mutate(Assignments.due = gsub('\n', '<br>', Assignments.due))
+  
+```
+
+```{r echo = FALSE}
+
+lab %>% mutate_all(linebreak) %>%
+  kable(booktabs = T, escape = F, col.names = c('Week', 'Week of:', 'Topic', "Assignments Due")) %>%
+  kable_styling
+```
