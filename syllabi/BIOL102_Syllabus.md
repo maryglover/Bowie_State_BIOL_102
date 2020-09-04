@@ -51,7 +51,7 @@ Through Blackboard, students access:
  
 ### Zoom 
 
-Zoom is free, video conferencing software which will be used for all scheduled class meetings. All zooom class sessions can be accessed through the app in Blackboard. Students can join class sessions through their internet browser or by downloading the zoom app to their desktop computer or phone. For more information about joining zoom meetings, see [here](https://support.zoom.us/hc/en-us/articles/201362193-Joining-a-meeting). 
+Zoom is free, video conferencing software which will be used for all scheduled class meetings. All zoom class sessions can be accessed through the app in Blackboard. Students can join class sessions through their internet browser or by downloading the zoom app to their desktop computer or phone. For more information about joining zoom meetings, see [here](https://support.zoom.us/hc/en-us/articles/201362193-Joining-a-meeting). 
 
 ### Microsoft office 
 
@@ -59,7 +59,7 @@ Virtual labs will be organized in Microsoft Office Online, using Microsoft Word,
 
 ### Slack 
 
-Slack is a communication platform which can be accessed through an internet brower, desktop client, or mobile app. In this course, we will use slack for:
+Slack is a communication platform which can be accessed through an internet browser, desktop client, or mobile app. In this course, we will use slack for:
 
 - general communication between instructors and students
 - discussion assignments
@@ -77,7 +77,7 @@ IMPORTANT NOTE: Confidential or sensitive information should **not** be discusse
 
 BIOL 102 will be delivered entirely online. Class sessions will be on Zoom by Dr. Glover during the normal scheduled class times.
 
-Each week, students will receive course content through Blackboard, including readings, assignements, lecture videos, and discussion questions. Instead of having students watch a lesson virtually during regular class times, Dr. Glover will record the lectures and students are will be expected to watch the lecture videos before the class. During class sessions, we will engage with the material for the week&mdash;clarifying key points, practicing test questions, and applying the knowledge to broader concepts.
+Each week, students will receive course content through Blackboard, including readings, assignments, lecture videos, and discussion questions. Instead of having students watch a lesson virtually during regular class times, Dr. Glover will record the lectures and students are will be expected to watch the lecture videos before the class. During class sessions, we will engage with the material for the week&mdash;clarifying key points, practicing test questions, and applying the knowledge to broader concepts.
 
 
 **Lab assignments are due on Mondays at 5:00 PM. Lecture assignments are due on Thursdays at 5:30PM.** 
@@ -87,11 +87,11 @@ Each week, students will receive course content through Blackboard, including re
 | ---      | ---       | ---       |
 | Monday | 5:00 PM - 6:50 PM | Laboratory |
 | Tuesday | 5:30 PM - 6:45 | Office hours |
-| Wednesday | 5:30 - 6:45 | Lecture discussion|
+| Thursday | 5:30 - 6:45 | Lecture discussion|
 
 
 ### Laboratory
-Dr. Glover will briefly review the lab assignment for the week and students will have an opportunity to ask questions about the lab assignemnt. The remaining class time, Dr. Glover will be on zoom to assist as students work through the lab on their own. 
+Dr. Glover will briefly review the lab assignment for the week and students will have an opportunity to ask questions about the lab assignment. The remaining class time, Dr. Glover will be on zoom to assist as students work through the lab on their own. 
 
 ### Office hours
 Dr. Glover will be available on zoom for office hours during the regularly scheduled class time on Tuesdays. This is a time for students to answer questions as they work on the material for the week. 
@@ -199,13 +199,13 @@ Students will be given discussion questions to answer in slack channels every tw
 
 ### Scientific literacy (10%)
 
-In this assignment, students explore the impact of science in society by focusing on the racial injustice in science or scientific misconceptions. Students will write a research paper (approximately 800-1,000 words) and present a 5 minute presentation on the topic. More details and grading rubrics will be available on blackboard. **The final paer is due on November 6 at 11:59PM and the presentations will take place on Zoom during class times on Tuesday, November 3 and Thursday, November 5.** There will be multiple checkpoints in the semester for feedback on the assignment. Students may not work on the same topic and the specific topic must be approved by Dr. Glover. 
+In this assignment, students explore the impact of science in society by focusing on the racial injustice in science or scientific misconceptions. Students will write a research paper (approximately 800-1,000 words) and present a 5 minute presentation on the topic. More details and grading rubrics will be available on blackboard. **The final paper is due on November 6 at 11:59PM and the presentations will take place on Zoom during class times on Tuesday, November 3 and Thursday, November 5.** There will be multiple checkpoints in the semester for feedback on the assignment. Students may not work on the same topic and the specific topic must be approved by Dr. Glover. 
 
 Students have the option of two assignments:
 
 #### Option 1: Racial injustice in science 
 
-In light of recent spotlights on social and racial injustice, this project will relate to identifying, understanding, and addressing racial inequalities as it relates to science.  Several topics related to various scientists who have been associated with presenting science as a way to defend racism/racist beliefs and several scientific studies dehumanizing black individuals have been identified.  In this project, students wiill research these topics/individuals and reflect on how to overcome challenges associated with their wrong doings. 
+In light of recent spotlights on social and racial injustice, this project will relate to identifying, understanding, and addressing racial inequalities as it relates to science.  Several topics related to various scientists who have been associated with presenting science as a way to defend racism/racist beliefs and several scientific studies dehumanizing black individuals have been identified.  In this project, students will research these topics/individuals and reflect on how to overcome challenges associated with their wrong doings. 
 
 #### Option 2: Scientific misconception
 
@@ -235,7 +235,7 @@ Each week, students will receive a virtual lab task to complete. The lab assignm
 
 Each student is expected to keep an ongoing document as a lab notebook throughout the semester in their Microsoft OneDrive lab folder. A lab notebook entry is required for each lab class. Lab notebook entries must be done in a timely manner as this is important to ensure accurate record keeping of experiments. 
 
-Lab assignents build on each other; therefore students must complete the lab assignemts in order. Students may not do a lab assignment until they have completed all previous assignments. 
+Lab assignments build on each other; therefore students must complete the lab assignments in order. Students may not do a lab assignment until they have completed all previous assignments. 
 
 #### Lab poster (10%)
 
@@ -251,13 +251,13 @@ Please be aware that per University regulations five (5) unexcused absences may 
 
 ### Late Assignments
 
-Due dates for assignments are provided on Blackboard and on the course schedule. In general, lab assignments are due every Monday, and lecture assignemnts are due every Thursday. Instructor feedback will be in given in order of submission. 
+Due dates for assignments are provided on Blackboard and on the course schedule. In general, lab assignments are due every Monday, and lecture assignments are due every Thursday. Instructor feedback will be in given in order of submission. 
 
-Students have **5** "late passes" for the semseter. This allows students to turn in an assignment late, for any reason, no questions asked. Each late pass equals 1 day late. For example, a student can use all five passes at once to turn in an assignment five days late. Or a student could use one pass on five separate assignments to turn in each a day late. After late passes are exhausted, 10% will be deducted for every day late. It is a student's responsibility contact Dr. Glover to use a late pass. All assignments must be submitted by the last day of classes, Monday, December 14. 
+Students have **5** "late passes" for the semester. This allows students to turn in an assignment late, for any reason, no questions asked. Each late pass equals 1 day late. For example, a student can use all five passes at once to turn in an assignment five days late. Or a student could use one pass on five separate assignments to turn in each a day late. After late passes are exhausted, 10% will be deducted for every day late. It is a student's responsibility contact Dr. Glover to use a late pass. All assignments must be submitted by the last day of classes, Monday, December 14. 
 
-For extunating circumstances (for example, hospitilization) where it is impossible for students to submit assignments, please contact Dr. Glover. Exceptions can be made at the instructor discretion. 
+For extenuating circumstances (for example, hospitalization) where it is impossible for students to submit assignments, please contact Dr. Glover. Exceptions can be made at the instructor discretion. 
 
-**Late passes do not apply to reading assginments, discussion forums, or exams which must be completed on the scheduled date**. If a student is unable to take an exam on the exam date, the instructor must be notified prior to the exam. Otherwise, the student will receive a 0 on the exam. 
+**Late passes do not apply to reading assignments, discussion forums, or exams which must be completed on the scheduled date**. If a student is unable to take an exam on the exam date, the instructor must be notified prior to the exam. Otherwise, the student will receive a 0 on the exam. 
 
 ### Academic dishonesty
 
@@ -267,17 +267,17 @@ Please familiarize yourself with the university's policy (see below).
 
 University Policy Regarding Academic Honesty from the [Undergraduate catalog](https://www.bowiestate.edu/files/resources/catalog-undergraduate-2017-2019-2.pdf)
 
-> Students are expected to conform to a strict standard of academic honesty. Cheating onexaminations, plagiarism, unauthorized collaboration with others on assignments, submittingwithout authorization duplicate assignments for credit in more than one course, and improper acknowledgment of sources of material are intolerable offenses that carry serious penalties.
+> Students are expected to conform to a strict standard of academic honesty. Cheating on examinations, plagiarism, unauthorized collaboration with others on assignments, submitting without authorization duplicate assignments for credit in more than one course, and improper acknowledgment of sources of material are intolerable offenses that carry serious penalties.
 > 
 > **Policy on Plagiarism**
 
 > 1. Plagiarism is the act of representing another’s ideas, words, or information as one’s own. Every student writing a paper should be aware of the following principles.
 > 
 >  - All directly quoted materials must be identified as such by quotation marks. The source(s) of this material must be acknowledged.
->  -  When borrowed ideas or information is not directly quoted by a student, the student should have so assimilated this material that it is indeed being expressed in his/her own words. However, just as in the case of direct quotations, the sources of suchborrowed ideas or information must be acknowledged.
+>  -  When borrowed ideas or information is not directly quoted by a student, the student should have so assimilated this material that it is indeed being expressed in his/her own words. However, just as in the case of direct quotations, the sources of such borrowed ideas or information must be acknowledged.
 > 
 > 2. The sources of ideas or information lying well within the realm of common knowledge (i.e., material that would be known by anyone familiar with the subject under discussion) need not be acknowledged.
-> 3. Students guilty of plagiarism are subject to severe penalties, ranging from failure for the assignment to failure in the course or, in extreme cases, dismissal from the University. The instructor, in consultation with the Departmental Chair and the School Dean,shall determine the appropriate sanction to be imposed. Students appealing the imposed sanction must present their appeal in writing to the Provost for a final resolution.
+> 3. Students guilty of plagiarism are subject to severe penalties, ranging from failure for the assignment to failure in the course or, in extreme cases, dismissal from the University. The instructor, in consultation with the Departmental Chair and the School Dean, Dean shall determine the appropriate sanction to be imposed. Students appealing the imposed sanction must present their appeal in writing to the Provost for a final resolution.
 > 
 >**Procedures for Handling Cases of Alleged Infractions of Academic Honesty**
 
